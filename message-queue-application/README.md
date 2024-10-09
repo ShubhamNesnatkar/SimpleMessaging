@@ -54,8 +54,7 @@ The architecture is designed around the **Producer-Consumer** pattern:
 - Clone the repository:
 
 ```
-git clone https://github.com/your-repository/messaging-queue-app.git
-cd messaging-queue-app
+git clone https://github.com/ShubhamNesnatkar/SimpleMessaging.git
 ```
 - Build the project:
 ```
